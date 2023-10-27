@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-title: Jekyll
 ---
 
 Welcome to my new blog!
