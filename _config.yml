@@ -8,4 +8,6 @@ github_username: PaulinaKukuczka
 description: "Great site about Jekyll on GH-Pages. Explore this features."
 
 # Build settings
-remote_theme: jekyll/minima
+markdown: kramdown
+theme: minima
+# remote_theme: jekyll/minima
